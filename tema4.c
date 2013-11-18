@@ -1,5 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
+
+//branch crisan
+
+
 unsigned char * initializare(unsigned char *w,int n)
     {
         w=(unsigned char *)calloc(n,sizeof(unsigned char));
